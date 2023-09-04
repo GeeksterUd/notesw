@@ -1,0 +1,89 @@
+  .content {
+    max-width: 750px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+  }
+.get-color{
+    margin-left: 3px;
+}
+  .icon {
+    height: 35px;
+    width: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  textarea{
+    width:360px;
+    height: 120px;
+    box-shadow: 2px 2px 10px black;
+  }
+  
+  .note-input {
+    margin-top: 30px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  .input-text {
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 6px;
+  }
+
+  .action {
+    display: flex;
+    flex-direction: column;
+  }
+  .theme {
+    width: 90px;
+    height: 35px;
+  }
+  
+  .notes-list {
+    max-width: 1000px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .note {
+    padding: 15px;
+    border-radius: 5px;
+    width: 260px;
+    margin: 10px;
+    height: 160px;
+  }
+  .note-view {
+    height: 100px;
+  }
+  .bin-icon {
+    height: 18px;
+    width: 18px;
+    float: right;
+    margin-top: 8px;
+  }
+  
+  .illustration {
+    height: 250px;
+    width: 400px;
+  }
+  .no-notes {
+    display: flex;
+    flex-direction: row;
+  }
+  .msg {
+    margin-top: 100px;
+    text-align: center;
+    opacity: 70;
+  }
+#add-btn{
+    margin-top: 55px;
+    margin-left: 8px;
+    padding: 3px;
+}
