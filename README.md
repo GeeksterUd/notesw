@@ -1,1 +1,2 @@
 # notesw
+i created three file in html i created a div inside which i created a textarea and a button and another div which show the entered notes in css i gave the styling in js i get the required element using query selector and added a event listener to the button which will call afunction which willstore the notes value in an array and then i created a new function which will display the notes and another function which will delete the note  
